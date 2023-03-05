@@ -28,8 +28,16 @@
 
 </div>
 
+
+<div align="center">
+
 #### Follow me
+[![YouTube](https://img.shields.io/badge/YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=ff0000)](https://www.youtube.com/channel/UCmUd-6_LPyUawyivwIPLrBw) 
+[![Habr](https://img.shields.io/badge/Habr-090909?style=for-the-badge&logo=Habr&logoColor)](https://career.habr.com/andreytatarnikov12) 
+[![VK](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=VK&logoColor=4c75a3)](https://vk.com/id699043912)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor)](@CyberStalk101)
+[![Gmail](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=Gmail&logoColor)](andrestat95@gmail.com)
 
-
+</div>
 
 
