@@ -1,4 +1,6 @@
-## Hello, I’m beginner Web-developer. My name is 
+ ## Hello, I’m beginner Web-developer. My name is 
+
+<div align="center" width="50">
 
 [![Header](https://github.com/Andres-Tat/Andres-Tat/blob/main/assets/AT.png)](https://career.habr.com/andreytatarnikov12)
 
@@ -19,7 +21,15 @@
 ![LINUX](https://img.shields.io/badge/LINUX-090909?style=for-the-badge&logo=LINUXMINT&logoColor=6eb745)
 ![DEVTOOLS](https://img.shields.io/badge/DEVTOOLS-090909?style=for-the-badge&logo=GOOGLECHROME&logoColor=)
 ![MYSQL](https://img.shields.io/badge/MYSQL-090909?style=for-the-badge&logo=MYSQL&logoColor=e26d00)
+![GITHUB](https://img.shields.io/badge/GITHUB-090909?style=for-the-badge&logo=GITHUB&logoColor=)
 
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
+
+</div>
 
 #### Follow me
+
+
+
 
