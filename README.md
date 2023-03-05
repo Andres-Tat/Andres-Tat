@@ -2,7 +2,7 @@
 
 <div align="center" width="50">
 
-[![Header](https://github.com/Andres-Tat/Andres-Tat/blob/main/assets/AT.png)](https://career.habr.com/andreytatarnikov12)
+[![Header](https://github.com/Andres-Tat/Andres-Tat/blob/main/assets/AT.png)](https://www.figma.com/file/2c0pBbrkwlmMqpjfwxuID0/Untitled?node-id=0%3A1&t=0EAvjQwGAv5AR9N9-0)
 
 
 ### Language and Tools
