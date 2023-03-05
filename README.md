@@ -1,4 +1,4 @@
- ## Hello, I’m beginner Web-developer. My name is 
+ ## Hello  I’m beginner Web-developer. My name is 
 
 <div align="center" width="50">
 
@@ -29,9 +29,19 @@
 </div>
 
 
+
 <div align="center">
 
-#### Follow me
+### Stasictics
+
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+
+
+
+### Follow me
 [![YouTube](https://img.shields.io/badge/YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=ff0000)](https://www.youtube.com/channel/UCmUd-6_LPyUawyivwIPLrBw) 
 [![Habr](https://img.shields.io/badge/Habr-090909?style=for-the-badge&logo=Habr&logoColor)](https://career.habr.com/andreytatarnikov12) 
 [![VK](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=VK&logoColor=4c75a3)](https://vk.com/id699043912)
