@@ -34,7 +34,7 @@
 
 ### Stasictics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andres-Tat)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andres-Tat&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Follow me
