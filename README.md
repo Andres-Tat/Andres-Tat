@@ -38,6 +38,11 @@
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor)](@CyberStalk101)
 [![Gmail](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=Gmail&logoColor)](andrestat95@gmail.com)
 
+
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
+
 </div>
+
 
 
