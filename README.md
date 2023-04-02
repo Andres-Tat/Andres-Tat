@@ -1,6 +1,6 @@
  <div id="MyProfile" align="center">
 
-<p>
+
 
  ## Hi there. My name is
 
@@ -8,18 +8,15 @@
  
 
 
-
-
-## `I’m Junior Frontend Developer`
+## I’m Junior Frontend Developer
 
 <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="846" height="500">
 
 
 
-
-
-## `Languages and Tools`
+## Languages and Tools
 <div id="Languages and Tools" align="center">
+
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
@@ -40,6 +37,8 @@
 
 ## Stats
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?Andres-Tat=vn7n24fzkq&theme=default) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?Andres-Tat=vn7n24fzkq&theme=default)
 
 
 
