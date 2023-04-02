@@ -4,7 +4,7 @@
 
 ## I’m Junior Frontend Developer
 
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="700" height="300">
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="846" height="300">
 
 ## Language and Tools
 
