@@ -1,12 +1,18 @@
  <div id="MyProfile" align="center">
 
- ## `Hi there. My name is` 
+<p>
 
-![Header](https://github.com/Andres-Tat/Andres-Tat/blob/main/assets/Header.png)
+ ## Hi there. My name is
+
+![Header](https://github.com/Andres-Tat/Andres-Tat/blob/main/assets/Header.png) 
+ 
+
+
+
 
 ## `I’m Junior Frontend Developer`
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="846" height="500">
+<img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="846" height="500">
 
 
 
@@ -32,6 +38,7 @@
 
 
 
+## Stats
 
 
 
