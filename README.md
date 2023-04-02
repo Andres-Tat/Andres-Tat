@@ -37,8 +37,9 @@
 
 ## Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?Andres-Tat=vn7n24fzkq&theme=default) 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?Andres-Tat=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andres-Tat&theme=aura_dark) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Andres-Tat&theme=aura_dark)
+
 
 
 
