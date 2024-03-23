@@ -9,7 +9,7 @@
 ![Header](https://github.com/Andres-Tat/Andres-Tat/blob/main/assets/Header.png) 
  
 
-## I'm Web Developer
+## I'm Frontend Developer
 
 <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="846" height="500">
 
