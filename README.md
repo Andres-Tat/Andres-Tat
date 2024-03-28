@@ -11,7 +11,7 @@
 
 ## I'm Frontend Developer
 
-<img src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFkenpteGgyc2VuNjRkcTFwNG05anNzNXhxOWZ5aG9mNmFrbjQyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6heBQSjt2IoA8/giphy.gif>
+<img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNraWI0eml3bHBoMGdkYXkzMDl5YXlzc2pnNnlvZTRmc2VxazJhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fQZX2aoRC1Tqw/giphy.gif>
 
 
 
