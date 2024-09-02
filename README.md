@@ -23,6 +23,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5&logoColor=e96e2e)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=254bdd)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=efd81d)
+![Python](https://cdn-icons-png.flaticon.com/128/5968/5968350.png)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=5ed3f3)
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass&logoColor=c76494)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=2496ed)
