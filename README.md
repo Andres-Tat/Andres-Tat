@@ -15,7 +15,7 @@
 
 ## Languages and Tools
 
-![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=Golang&logoColor=#007D9C)
+![Golang]((https://img.icons8.com/color/48/golang.png))
 ![vscode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VisualStudio&logoColor=3aa3e9)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=2496ed)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=f7b614)
